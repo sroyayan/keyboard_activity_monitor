@@ -1,0 +1,12 @@
+# PRODIGY_CS_04 - Keyboard Activity Monitor
+#
+# This project uses ONLY the Python standard library.
+# No third-party packages are required.
+
+# Tkinter is bundled with Python on all major platforms:
+#   - Windows: included in the official installer
+#   - Linux: needs the distro package (e.g. python3-tk on Debian/Ubuntu)
+#   - macOS: included with the python.org installer
+
+# Python version officially supported:
+python>=3.8
